@@ -25,17 +25,21 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ikerlopezaguado" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikerlopezaguado" height="30" width="40" />
 </a>
+</p>
+
+<p align="center">
+📫 Contact: <a href="mailto:tuemail@gmail.com">tuemail@gmail.com</a>
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
