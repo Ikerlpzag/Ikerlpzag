@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-📫 Contact: <a href="mailto:ikerlpzag@gmail.com">ikerlpzag@gmail.com</a>
+<a href="mailto:ikerlpzag@gmail.com">ikerlpzag@gmail.com</a>
 </p>
 
 ---
